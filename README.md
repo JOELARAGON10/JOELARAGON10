@@ -1,4 +1,5 @@
 Hi im @JOELARAGON10
+
 ========================================
 
 Currently in my second year of studying Robotics, I am deeply passionate about constructing and programming robots for specific tasks. Beyond my academic pursuits, I have several hobbies that enrich my skills and knowledge, including a love for video games, piano playing, and a constant desire to learn new things.
