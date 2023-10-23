@@ -1,4 +1,17 @@
-- 👋 Hi, I’m @JOELARAGON10
+Hi im @JOELARAGON10
+========================================
+
+
+
+========================================
+
+You can find me on discord -> McDonald's
+
+Im fairly new but you can also find me on www.linkedin.com/in/joel-aragon-balderas-ab6762297and on Twitter (X)
+
+
+
+-  👋 Hi, I’m @JOELARAGON10
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
