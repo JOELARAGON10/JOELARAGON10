@@ -10,7 +10,7 @@ My primary goal is to further immerse myself in the world of Robotics and the di
 
 You can find me on discord -> McDonald's
 
-Im fairly new but you can also find me on www.linkedin.com/in/joel-aragon-balderas-ab6762297and on (https://instagram.com/joelaragon10?igshid=NTY4MTl5eGxwbTN6&utm_source=qr)
+Im fairly new but you can also find me on www.linkedin.com/in/joel-aragon-balderas-ab6762297and on https://instagram.com/joelaragon10?igshid=NTY4MTl5eGxwbTN6&utm_source=qr
 
 
 
