@@ -7,17 +7,19 @@ Im currently in my second year of studying Robotics, I am deeply passionate abou
 My primary goal is to further immerse myself in the world of Robotics and the digital systems that comprise it. My dream is to travel the world, exploring and getting to know the latest technological advancements and the people who share my passion for this field. I aspire to actively engage with the global community of tech enthusiasts, contribute with my own creations, and learn from experts in various regions of the world.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Programming Languages
 * Python
 * Matlab
 * C++
   
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
 
 You can find me on discord: cerezaelectrica828
 
 You can also find me on:  www.linkedin.com/in/joel-aragon-balderas-ab6762297and on 
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!---
 JOELARAGON10/JOELARAGON10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
